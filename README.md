@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hacked Area</h1>
+<h1 align="center">Hi 👋, Phoenix</h1>
 <h3 align="center">A passionate Cyber Security specialist and Red Hat Hacker, emerging my knowledge on AI & ML too.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackedarea&label=Profile%20views&color=0e75b6&style=flat" alt="hackedarea" /> </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **UEBA system**
 
-- 🌱 I’m currently learning **Advanced Networking, scripting with python, and cloud**
+- 🌱 I’m currently learning **Advanced Networking, scripting with python, and Unsupervised Learning**
 
 - 💬 Ask me about **networking, programming languages (python, java, c, node), security tips.**
 
